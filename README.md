@@ -11,6 +11,11 @@
 * [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation?specialization=reinforcement-learning)
 * [A complete Reinforcement Learning System](https://www.coursera.org/learn/complete-reinforcement-learning-system?specialization=reinforcement-learning)
 
+## Youtube Links
+
+*	Q-Learning: A Complete Example in Python by Dr. Daniel Soper [Link](https://youtu.be/iKdlKYG78j4)
+*   Q-learning vs SARSA by student bob la [link](https://youtu.be/9D0hrni2vH0)
+
 ##  Blog Links
 * [POMDP for Dummies](http://cs.brown.edu/research/ai/pomdp/tutorial/index.html)
 * [Policy Iteration in RL: A step by step Illustration](https://towardsdatascience.com/policy-iteration-in-rl-an-illustration-6d58bdcb87a7)
