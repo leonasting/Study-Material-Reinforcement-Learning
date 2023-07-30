@@ -24,3 +24,5 @@
 ## Git Repository
 
 * CS234 Student Repository of Huixxi [link](https://github.com/Huixxi/CS234-Reinforcement-Learning-Winter-2019)
+
+* Repository with good examples [link](https://github.com/seungeunrho/minimalRL)
