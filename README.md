@@ -2,6 +2,7 @@
 
 ## Online Youtube Courses
 * Stanford Reinforcemen Learning CS234 [Link](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+* Deep Lizard [Link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 
 ## Coursera Courses
 
